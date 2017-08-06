@@ -1,5 +1,4 @@
 # nexus6p-booloop-fix
-
 Several Smartphones models introduced between 2015, 2016 were discovered by users to have common problem, all of which eventually cause the device unstable , and stuck in a loop or reboots or wont turn on . this issue had been nicknamed as **bootloop** , This issue affected on mainly Nexus devices 6p and 5x.
 
 This is mainly a hardware failure related to the BIG cluster has occurred. This fix remedies the problem by disabling the BIG cores. Unfortunately, this does mean that you will take a performance hit.
